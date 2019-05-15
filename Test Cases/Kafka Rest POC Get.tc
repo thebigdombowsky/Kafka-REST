@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kafka Rest POC Get</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb6024cc-578d-480f-b3ee-63ae006362ae</testCaseGuid>
+</TestCaseEntity>
